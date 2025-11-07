@@ -11,7 +11,6 @@
 ## 💫 About Me
 🎓 I'm a CSE student passionate about <b>Web Development</b>, <b>Android Development</b>, and <b>Software Engineering</b>.<br>
 💡 I love building creative, real-world applications using modern technologies and frameworks.<br>
-🚀 Currently working on <b>Driver Drowsiness Detection System</b> using Arduino and OpenCV.<br>
 ✨ Always exploring new technologies to improve my development skills and creativity.
 
 ---

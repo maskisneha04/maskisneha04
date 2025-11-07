@@ -23,49 +23,67 @@
 ---
 
 ## 🤝 Connect with Me
-<a href="https://www.linkedin.com/in/maski-sneha-7543b6358/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:maskisneha@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://github.com/maskisneha04" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/maski-sneha-7543b6358/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:snehamasgi554@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/maskisneha04" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 Tech Stack & Proficiency
-![Python](https://img.shields.io/badge/Python-85%25-yellow?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-80%25-orange?style=for-the-badge&logo=openjdk)
-![Android](https://img.shields.io/badge/Android-75%25-3DDC84?style=for-the-badge&logo=android)
-![HTML](https://img.shields.io/badge/HTML-85%25-e34c26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-80%25-264de4?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-f7df1e?style=for-the-badge&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-70%25-00758f?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-70%25-ffca28?style=for-the-badge&logo=firebase)
-![GitHub](https://img.shields.io/badge/GitHub-85%25-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-85%25-007ACC?style=for-the-badge&logo=visualstudiocode)
+<div align="center">
+
+| 💻 Languages | ⚙️ Tools & Frameworks | 🗃️ Databases |
+|--------------|-----------------------|--------------|
+| ![Python](https://img.shields.io/badge/Python-85%25-yellow?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-80%25-orange?style=for-the-badge&logo=openjdk) ![C](https://img.shields.io/badge/C-75%25-blue?style=for-the-badge&logo=c) | ![Android](https://img.shields.io/badge/Android-75%25-3DDC84?style=for-the-badge&logo=android) ![HTML](https://img.shields.io/badge/HTML-85%25-e34c26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-80%25-264de4?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-f7df1e?style=for-the-badge&logo=javascript) | ![MySQL](https://img.shields.io/badge/MySQL-70%25-00758f?style=for-the-badge&logo=mysql) ![Firebase](https://img.shields.io/badge/Firebase-70%25-ffca28?style=for-the-badge&logo=firebase) |
+
+</div>
 
 ---
 
 ## 🏆 GitHub Stats & Achievements
+
 <div align="center">
 
-### Sneha Masgi’s GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=maskisneha04&show_icons=true&theme=tokyonight)
+### Maski Sneha’s GitHub Stats
+<a href="https://github.com/maskisneha04">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maskisneha04&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117" />
+</a>
+<a href="https://github.com/maskisneha04">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=maskisneha04&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117" />
+</a>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=maskisneha04&theme=tokyonight)
+<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maskisneha04&layout=compact&theme=tokyonight)
+<a href="https://github.com/maskisneha04">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maskisneha04&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117" />
+</a>
 
 </div>
 
 ---
 
 ## 📊 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maskisneha04&theme=tokyo-night)
+![Maski’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maskisneha04&theme=tokyo-night&hide_border=false&bg_color=0D1117)
 
 ---
+
+## 🏅 Badges & Highlights
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maskisneha04&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/maskisneha04?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+💻 Let’s connect and build something awesome together ✨
 
 ⭐ **Thanks for visiting my profile!** Let’s connect and build something awesome together 💻✨

@@ -8,7 +8,9 @@
 
 ---
 
-## 💫 About Me
+## 🙋‍♂️ About Me
+👨‍🎓 Studying CSE Engineering At Dayananda Sagar University
+🔭 I’m looking To Contribute to Open Source
 🎓 I'm a CSE student passionate about <b>Web Development</b>, <b>Android Development</b>, and <b>Software Engineering</b>.<br>
 💡 I love building creative, real-world applications using modern technologies and frameworks.<br>
 ✨ Always exploring new technologies to improve my development skills and creativity.
